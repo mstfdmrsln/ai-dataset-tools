@@ -1,0 +1,15 @@
+input: data/raw.jsonl
+output: data/processed.jsonl
+
+steps:
+  - clean:
+      removeHtml: true
+      removeUrls: true
+      lowercase: true
+      unicodeNormalize: true
+      removeMentions: true
+      removeHashtags: true
+      collapseSpaces: true
+
+  - dedupe:
+      mode: normalized
