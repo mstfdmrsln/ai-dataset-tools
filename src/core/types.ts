@@ -7,8 +7,8 @@ export interface DataSink<T> {
   close(): Promise<void>;
 }
 
-export interface Transformer<I, O = I> {
-  transform(item: I): Promise<O | null>;
+export interface Transformer<IN, OUT = IN> {
+  transform(item: IN): Promise<OUT | null>;
 }
 
 export interface Pipeline<I, O = I> {
