@@ -1,6 +1,6 @@
 {
   "name": "ai-dataset-tools",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Modern toolkit for cleaning, deduplicating, converting, splitting, and analyzing AI training datasets.",
   "author": "Mustafa Demiraslan <mstfdmrsln0668@gmail.com>",
   "license": "MIT",
