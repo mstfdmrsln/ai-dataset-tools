@@ -1,5 +1,30 @@
 # ai-dataset-tools
 
+<div align="center">
+
+  <h3>AI Dataset Tools
+  
+  <p>
+    <strong>Modern toolkit for cleaning, deduplicating, converting, splitting, and analyzing AI training datasets.</strong>
+  </p>
+
+  <p>
+    <a href="https://www.npmjs.com/package/ai-dataset-tools">
+      <img src="https://img.shields.io/npm/v/ai-dataset-tools?style=flat-square&color=blue" alt="npm version" />
+    </a>
+    <a href="https://www.npmjs.com/package/ai-dataset-tools">
+      <img src="https://img.shields.io/npm/dm/ai-dataset-tools?style=flat-square" alt="downloads" />
+    </a>
+    <a href="https://github.com/mstfdmrsln/ai-dataset-tools/blob/main/LICENSE">
+      <img src="https://img.shields.io/npm/l/ai-dataset-tools?style=flat-square" alt="license" />
+    </a>
+    <a href="https://bundlephobia.com/result?p=ai-dataset-tools">
+      <img src="https://img.shields.io/bundlephobia/minzip/ai-dataset-tools?style=flat-square&color=green" alt="bundle size" />
+    </a>
+  </p>
+
+</div>
+
 > A modular, high-performance toolkit for cleaning, validating, deduplicating, formatting and analyzing large-scale AI training datasets.
 > Designed for real-world ML pipelines, MLOps workflows, and scalable data preparation.
 
